@@ -1,1 +1,1 @@
-###data nilai mahasiswa
+###datanilaimahasiswa
