@@ -7,4 +7,5 @@
 ### Buat flowchart dan penjelasan programnya pada README.md
 ![FLOW](https://user-images.githubusercontent.com/118960008/205071646-8bfd50ad-309f-4553-ba3a-4e98eac3f695.png)
 ## Commit dan push reposiory ke github
+![GAS](https://user-images.githubusercontent.com/118960008/205071906-9986ce3a-f239-4834-b8d7-8e96ce36d4b7.png)
 
